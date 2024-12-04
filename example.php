@@ -1,11 +1,13 @@
 <?php
-//nim
+
+
 function hello(){
-    echo "hello";
+  
+    echo "kavee";
     echo "hi  there";
 }
 
-
 function grgr(){
     echo"sssssss";
+
 }
